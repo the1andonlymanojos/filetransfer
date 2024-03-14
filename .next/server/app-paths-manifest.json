@@ -1,0 +1,17 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/listing/[listingid]/page": "app/listing/[listingid]/page.js",
+  "/issue/page": "app/issue/page.js",
+  "/login/page": "app/login/page.js",
+  "/about/page": "app/about/page.js",
+  "/mylistings/offers/[id]/page": "app/mylistings/offers/[id]/page.js",
+  "/myoffers/page": "app/myoffers/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/register/page": "app/register/page.js",
+  "/page": "app/page.js",
+  "/transactions/[transactionID]/page": "app/transactions/[transactionID]/page.js",
+  "/test/page": "app/test/page.js",
+  "/search/page": "app/search/page.js",
+  "/mylistings/page": "app/mylistings/page.js",
+  "/listing/new/page": "app/listing/new/page.js"
+}
